@@ -7,7 +7,6 @@ import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Switch } from "@/components/ui/switch"
 import Link from 'next/link'
-// import { ChevronRight, Users, CheckSquare } from 'lucide-react'
 import { ChevronRight, Star, Users, BarChart2, DollarSign, Clock, CheckSquare } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import { Companies } from '@/components/companies-section'
