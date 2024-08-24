@@ -12,25 +12,25 @@ function SiteNav() {
       <nav className="hidden md:flex space-x-6">
         <Link
           href="/#about-section"
-          className="hover:text-gray-300 transition-colors duration-200"
+          className="hover:text-lime-400 transition-colors duration-200"
         >
           About Us
         </Link>
         <Link
           href="/#solutions-section"
-          className="hover:text-gray-300 transition-colors duration-200"
+          className="hover:text-lime-400 transition-colors duration-200"
         >
           Solutions
         </Link>
         <Link
           href="/#pricing-section"
-          className="hover:text-gray-300 transition-colors duration-200"
+          className="hover:text-lime-400 transition-colors duration-200"
         >
           Pricing
         </Link>
         <Link
           href="/#workspace-section"
-          className="hover:text-gray-300 transition-colors duration-200"
+          className="hover:text-lime-400 transition-colors duration-200"
         >
           Workspace
         </Link>
